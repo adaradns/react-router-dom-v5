@@ -1,0 +1,13 @@
+section.home{
+    background-color: #2A9D8F;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.home h1 {
+    color: #E9C46A;
+    text-transform: uppercase;
+    font-size: 5rem;
+}
